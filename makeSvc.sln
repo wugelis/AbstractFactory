@@ -7,9 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{3F7F2AAF-F501-4D30-AEFC-25676AD2D5B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{0EFA282E-B54D-41A4-B9FF-E8FE9F31DE29}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCore5App", "WebCore5App\WebCore5App.csproj", "{097D4146-871C-4EA2-9D39-0B8CA304F787}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF8DCEC5-440E-4A61-B9A6-34E3A78984A0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +28,6 @@ Global
 		{3F7F2AAF-F501-4D30-AEFC-25676AD2D5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F7F2AAF-F501-4D30-AEFC-25676AD2D5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F7F2AAF-F501-4D30-AEFC-25676AD2D5B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0EFA282E-B54D-41A4-B9FF-E8FE9F31DE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0EFA282E-B54D-41A4-B9FF-E8FE9F31DE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0EFA282E-B54D-41A4-B9FF-E8FE9F31DE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0EFA282E-B54D-41A4-B9FF-E8FE9F31DE29}.Release|Any CPU.Build.0 = Release|Any CPU
 		{097D4146-871C-4EA2-9D39-0B8CA304F787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{097D4146-871C-4EA2-9D39-0B8CA304F787}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097D4146-871C-4EA2-9D39-0B8CA304F787}.Release|Any CPU.ActiveCfg = Release|Any CPU
